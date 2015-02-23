@@ -48,7 +48,7 @@ We give you Spring profiles! Just add a system property:
 
 ## Architecture plan
 
-[Click to see the plan](https://docs.google.com/document/d/1dXub2V0U5cNk9-lLUgfeRRQ5yzGMJ8TQpS8iRRWWy5A/)
+[Click to see the plan](https://drive.google.com/file/d/0B4mHLrLla3S8VHd3QXZrZ25yb1U/view?usp=sharing)
 
 ## Formats of incoming messages (only suggestion! decide yourself)
 
