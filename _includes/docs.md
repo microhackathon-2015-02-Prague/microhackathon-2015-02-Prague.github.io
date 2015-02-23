@@ -8,6 +8,7 @@ Here you find all information required for you to work during the Hackathon.
 # Link to the presentation
 
 [Presentation about microservices (2015-02-23, Prague - INCOMPLETE!)](https://docs.google.com/presentation/d/1jwgrLaHw3B9nXyVEW0QxFtyTZy2FHjotooqWtXwaI5k/)
+
 [Presentation about CDC](http://slides.com/jakubkubrynski/stick-to-the-rules#/)
 
 # Ok what should I do now? 
